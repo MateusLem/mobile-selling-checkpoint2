@@ -40,7 +40,7 @@ Construir uma aplicação simples contendo:
 ## 1. Clonar o repositório
 
 ```bash
-https://github.com/LuizCamilo-Mobile/FIAP-Project-Mobile-Example.git
+https://github.com/MateusLem/mobile-selling-checkpoint2.git
 ```
 
 ## 2. Acessar a pasta
