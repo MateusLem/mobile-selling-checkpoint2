@@ -149,20 +149,5 @@ npm install react-native-screens@4.16.0 --save-exact
 * Melhorar layout (UI/UX)
 * Criar componentes reutilizáveis
 * Adicionar validação de formulário
-* Integrar com Firebase (login real)
 * Persistência de usuário
-
----
-
-# 🗣️ Observação final
-
-Este projeto tem fins educacionais e foi construído passo a passo em aula para facilitar o aprendizado dos alunos.
-
----
-
-# 👨‍🏫 Autor
-
-Projeto utilizado em aula — FIAP
-Professor: Luiz Camilo
-
 ---
